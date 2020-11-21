@@ -2,4 +2,4 @@
 [![GitHub forks](https://img.shields.io/github/forks/Mogakamo/dynamic-web-starter)](https://github.com/Mogakamo/dynamic-web-starter/network)
 [![GitHub stars](https://img.shields.io/github/stars/Mogakamo/dynamic-web-starter)](https://github.com/Mogakamo/dynamic-web-starter/stargazers)
 [![GitHub license](https://img.shields.io/github/license/Mogakamo/dynamic-web-starter)](https://github.com/Mogakamo/dynamic-web-starter)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/mogakamo/dynamic-web-starter)
+![GitHub last commit](https://img.shields.io/github/last-commit/mogakamo/dynamic-web-starter)
