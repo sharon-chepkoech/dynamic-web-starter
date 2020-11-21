@@ -3,3 +3,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/Mogakamo/dynamic-web-starter)](https://github.com/Mogakamo/dynamic-web-starter/stargazers)
 [![GitHub license](https://img.shields.io/github/license/Mogakamo/dynamic-web-starter)](https://github.com/Mogakamo/dynamic-web-starter)
 ![GitHub last commit](https://img.shields.io/github/last-commit/mogakamo/dynamic-web-starter)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/mogakamo/dynamic-web-starter)
+![GitHub milestones](https://img.shields.io/github/milestones/open/mogakamo/dynamic-web-starter)
+![GitHub labels](https://img.shields.io/github/labels/mogakamo/dynamic-web-starter/starter-template)
